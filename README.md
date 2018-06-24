@@ -1,0 +1,2 @@
+# DllDiscoverer
+Inside a dll
